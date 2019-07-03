@@ -1,0 +1,10 @@
+= README
+//:toc:
+//:toclevels: 3
+
+== ScalaTest & ScalaCheck Examples
+
+[source,bash]
+----
+./sbt test
+----
